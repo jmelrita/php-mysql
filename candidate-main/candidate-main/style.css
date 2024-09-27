@@ -1,0 +1,22 @@
+body{
+	font-family: "Inter";
+}
+
+.flex{
+	display:flex;
+}
+.flex label{
+	width:200px;
+}
+table{
+	width:100%;
+	border-collapse:collapse;
+}
+th,td{
+	border:1px solid black;
+	padding:10px;
+	text-align:center;
+}
+p{
+	color:red;
+}
